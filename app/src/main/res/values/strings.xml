@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JoinZoom</string>
+    <string name="open_desc" formatted="false">Open \" %s:8080\" in your browser and enter the zoom-link in the text field.</string>
+</resources>
